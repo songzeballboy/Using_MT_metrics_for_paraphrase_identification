@@ -1,0 +1,22 @@
+training set path = ../../feature/MSRP/meteor.train.in
+testing set path = ../../feature/MSRP/meteor.test.in
+******************* LR ********************
+precision: 74.03%, recall: 88.49%
+accuracy: 71.71%
+f1 score: 80.62%
+******************* SVM ********************
+precision: 72.23%, recall: 93.64%
+accuracy: 71.83%
+f1 score: 81.55%
+******************* KNN ********************
+precision: 73.47%, recall: 79.42%
+accuracy: 67.25%
+f1 score: 76.33%
+******************* LSVM ********************
+precision: 74.55%, recall: 87.62%
+accuracy: 71.88%
+f1 score: 80.56%
+###############################################
+###############################################
+
+over ------------------------ over

@@ -1,0 +1,21 @@
+﻿=====================================
+## Here is the path usage information
+=====================================
+1. dataset path ： ./data
+
+2. data preprocess path ： ./ETL-data
+
+3. feature path ： ./feature
+
+4. code folder ： ./code
+
+5. script run ： ./script
+
+6. External Tool：
+(1) mteval-mater， calculate the NIST score
+(2) tercom-0.7.25， calculate the TER score
+(3) meteor-1.5 , calculate the METEOR score
+
+
+======================================================================================================
+Besides, the "cal-mt-mtric-tool" is a tool to calculate the BLEU, NIST, TERp score implement by myself.

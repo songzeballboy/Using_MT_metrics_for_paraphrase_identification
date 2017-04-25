@@ -1,0 +1,4 @@
+WordNet Database Directory (filename)    : ../wordnet//dict/
+Shift Stop Word List (string)            : .//data/shift_word_stop_list.txt
+Phrase Database (filename)               : .//data/phrases.db
+
